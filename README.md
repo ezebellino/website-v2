@@ -26,4 +26,4 @@ You can create bloposts redirects:
 $ node ./src/utils/create_redirects.js
 ```
 
-.
+
